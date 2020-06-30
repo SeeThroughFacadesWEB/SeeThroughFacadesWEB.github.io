@@ -1179,46 +1179,37 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s2SfGBUQWk {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-s3rehsRJNm {
+  padding-top: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-s2SfGBUQWk h3 {
-  font-weight: 300;
-}
-.cid-s2SfGBUQWk .card-img {
-  width: initial;
-}
-.cid-s2SfGBUQWk .card-img .mbr-iconfont {
-  font-size: 48px;
-  padding-right: 1rem;
-}
-.cid-s2SfGBUQWk .media-container-row {
-  word-wrap: break-word;
-  padding-bottom: 2rem;
-  min-height: 100%;
-}
-.cid-s2SfGBUQWk .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-s2SfGBUQWk .mbr-section-subtitle {
+.cid-s3rehsRJNm .mbr-text {
   color: #767676;
 }
-.cid-s2SfGBUQWk .mbr-text {
+.cid-s3rehsRJNm h4 {
+  text-align: center;
+}
+.cid-s3rehsRJNm p {
+  text-align: center;
+}
+.cid-s3rehsRJNm .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-s3rdIEwuwE {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s3rdIEwuwE .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
 }
-.cid-s2SfGBUQWk .media-container-column {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-direction: column-reverse;
-  -webkit-flex-direction: column-reverse;
-}
-.cid-s2SfGBUQWk .mbr-al-i-c {
-  align-items: center;
+.cid-rY3VMWrFB9 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/lb-090127-192519-lt-1-2000x982.png");
 }
 .cid-rY3VGhFSWe {
   padding-top: 90px;
@@ -1282,10 +1273,10 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-rY3VMWrFB9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/lb-090127-192519-lt-1-2000x982.png");
+.cid-s3rc9KE0Dp {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/pod-080509-104622-2000x1339.png");
 }
 .cid-s2RXK3uHfQ {
   padding-top: 45px;
